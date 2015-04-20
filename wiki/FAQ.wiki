@@ -12,11 +12,9 @@
 Все эти чипы имеют аппаратный USB, для заливки и обновления микропрограммы не требуется ничего лишнего только подключить плату контроллера к кмопьютеру.<br>
 Платы можно как изготовить самостоятельно так и использовать разработочные модули на базе этих чипов:<br>
 1)Sparkfun "ProMicro" (atmega32u4)<br>
-2)Arduino "leonardo" (atmega32u4)<br>
+2)Arduino "Leonardo" (atmega32u4)<br>
 3)Arduino "Micro" (atmega32u4)<br>
 4)PJRC "Teensy 2.0" (atmega32u4)<br>
 5)PJRC "Teensy ++ 2.0" (at90usb1286)<br>
-
-
 
 
